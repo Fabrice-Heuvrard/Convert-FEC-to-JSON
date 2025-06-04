@@ -42,7 +42,7 @@ convertir_fec_en_json('path/to/your_FEC_file.txt')
 This project is licensed under GNU Affero General Public License v3.0. See the `LICENSE` file for more details.
 
 ### Contact
-For any questions or suggestions, feel free to contact me on Twitter [@FabriceHeuvrard](https://twitter.com/FabriceHeuvrard) or Linkedin: https://www.linkedin.com/in/fabriceheuvrard/
+For any questions or suggestions, feel free to contact me on Twitter [@FabriceHeuvrard](https://twitter.com/FabriceHeuvrard) or LinkedIn: https://www.linkedin.com/in/fabriceheuvrard/
 
 ---
 
@@ -81,4 +81,4 @@ convertir_fec_en_json('chemin/vers/votre_fichier_FEC.txt')
 Ce projet est sous licence GNU Affero General Public License v3.0. Voir le fichier `LICENSE` pour plus de détails.
 
 ### Contact
-Pour toute question ou suggestion, n'hésitez pas à me contacter sur Twitter [@FabriceHeuvrard](https://twitter.com/FabriceHeuvrard) ou sur Linkedin: https://www.linkedin.com/in/fabriceheuvrard/
+Pour toute question ou suggestion, n'hésitez pas à me contacter sur Twitter [@FabriceHeuvrard](https://twitter.com/FabriceHeuvrard) ou sur LinkedIn: https://www.linkedin.com/in/fabriceheuvrard/
