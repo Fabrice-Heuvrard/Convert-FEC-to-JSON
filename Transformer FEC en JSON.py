@@ -26,7 +26,8 @@ def convertir_fec_en_json(nom_fichier):
     return "Conversion réussie, fichier sauvegardé sous 'FEC.json'."
 
 # Appel de la fonction
-convertir_fec_en_json(r'path/to/your_FEC_file.txt')
+if __name__ == "__main__":
+    convertir_fec_en_json(r'path/to/your_FEC_file.txt')
 
 
 
